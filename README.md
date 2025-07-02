@@ -4,21 +4,21 @@
 
 | 時間        | 地點                                                        | 備註                                             |
 | :---------- | :---------------------------------------------------------- | :----------------------------------------------- |
-| 06/30 16:00 | [政治大學](https://maps.app.goo.gl/onzbGEoJSUbJA7Ts6)       | 出發地暫定為政大，視情況接送或多點上車           |
-| 06/30 17:30 | [聯發冰工坊](https://maps.app.goo.gl/DnfLL7e5HE2bw83H8)     | 下國道北轉吃冰（第五組提出）                     |
-| 06/30 18:10 | [拾松辦桌小吃](https://maps.app.goo.gl/zEQ4Wyuf29pm2reP7)   | 晚餐（第四組提出）                               |
-| 06/30 19:00 | [包棟民宿](https://maps.app.goo.gl/3NQ7ap26UChu9GwL7)       | 宜蘭縣冬山鄉武罕五路 150 號                      |
-| 06/30 20:00 | [羅東夜市](https://maps.app.goo.gl/Ea5g6dbJLwTizz5V6)       | （第一組提出）                                   |
-| 07/01 08:00 | [包棟民宿](https://maps.app.goo.gl/3NQ7ap26UChu9GwL7)       | 起床、吃民宿早餐                                 |
-| 07/01 09:00 | [清水地熱](https://maps.app.goo.gl/d6cMpW1s11JmWqqR9)       | 泉湯屋、浴衣、煮食、魚咬腳（第一、三組提出）     |
-| 07/01 11:40 | [百匯窯烤雞餐廳](https://maps.app.goo.gl/jCoVLtJefQS2qm1q8) | 雞料理（大圓桌中菜）                             |
-| 07/01 13:30 | [冬山河親水公園](https://maps.app.goo.gl/Te7UWdZKMRD2Xtj88) | 騎腳踏車、踩天鵝船、散步、拍照（第三、五組提出） |
-| 07/01 15:40 | [粉鳥林](https://maps.app.goo.gl/WEEewVuEWkKtzpdXA)         | 聽海哭的聲音、拍照（第一組提出）                 |
-| 07/01 17:20 | [南方澳觀景台](https://maps.app.goo.gl/ECJatfVSbvRdUfnU7)   | 看海、拍照                                       |
-| 07/01 18:00 | [阿芬鮮魚湯](https://maps.app.goo.gl/BjYWNz7ghqdy761B6)     | 平價海鮮餐廳                                     |
-| 07/01 20:00 | [奕順軒](https://maps.app.goo.gl/dz5xrCEC5PCyZkHJA)         | 諸貝爾派的自己走去旁邊買                         |
-| 07/01 22:30 | [基隆山步道](https://maps.app.goo.gl/jca8LgidU6QSzYmK8)     | 黃金山城網美步道，回程還有體力就下基隆喝鮮魚湯   |
-| 07/02 02:00 | [姚家清魚湯](https://maps.app.goo.gl/kYa7H3hZq9HdMoWo9)     | Optional，視大家體力而定                         |
+| 07/11 18:00 | [聯邦租車](https://maps.app.goo.gl/ULtV1BbUTwHnxBMHA)       | 租車地上車後開去政大接人                         |
+| 07/11 18:40 | [政治大學](https://maps.app.goo.gl/onzbGEoJSUbJA7Ts6)       | 出發地暫定為政大，視情況接送或多點上車           |
+| 07/11 20:00 | [羅東夜市](https://maps.app.goo.gl/Ea5g6dbJLwTizz5V6)       | （第一組提出）                                   |
+| 07/11 22:00 | [包棟民宿](https://maps.app.goo.gl/3NQ7ap26UChu9GwL7)       | 宜蘭縣冬山鄉武罕五路 150 號                      |
+| 07/12 01:23 | [睡覺](https://maps.app.goo.gl/3NQ7ap26UChu9GwL7)           | Zzzzzzzzzz                                       |
+| 07/12 08:00 | [包棟民宿](https://maps.app.goo.gl/3NQ7ap26UChu9GwL7)       | 起床、吃民宿早餐                                 |
+| 07/12 09:00 | [清水地熱](https://maps.app.goo.gl/d6cMpW1s11JmWqqR9)       | 泉湯屋、浴衣、煮食、魚咬腳（第一、三組提出）     |
+| 07/12 11:40 | [百匯窯烤雞餐廳](https://maps.app.goo.gl/jCoVLtJefQS2qm1q8) | 雞料理（大圓桌中菜）                             |
+| 07/12 13:30 | [冬山河親水公園](https://maps.app.goo.gl/Te7UWdZKMRD2Xtj88) | 騎腳踏車、踩天鵝船、散步、拍照（第三、五組提出） |
+| 07/12 15:40 | [粉鳥林](https://maps.app.goo.gl/WEEewVuEWkKtzpdXA)         | 聽海哭的聲音、拍照（第一組提出）                 |
+| 07/12 17:20 | [南方澳觀景台](https://maps.app.goo.gl/ECJatfVSbvRdUfnU7)   | 看海、拍照                                       |
+| 07/12 18:00 | [阿芬鮮魚湯](https://maps.app.goo.gl/BjYWNz7ghqdy761B6)     | 平價海鮮餐廳                                     |
+| 07/12 20:00 | [奕順軒](https://maps.app.goo.gl/dz5xrCEC5PCyZkHJA)         | 諸貝爾派的自己走去旁邊買                         |
+| 07/12 22:30 | [基隆山步道](https://maps.app.goo.gl/jca8LgidU6QSzYmK8)     | 黃金山城網美步道，回程還有體力就下基隆喝鮮魚湯   |
+| 07/13 02:00 | [姚家清魚湯](https://maps.app.goo.gl/kYa7H3hZq9HdMoWo9)     | Optional，視大家體力而定                         |
 
 ## Rainy Day Backup Plan
 
