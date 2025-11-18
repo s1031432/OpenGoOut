@@ -7,17 +7,17 @@
 | 01/10 09:30 | [政治大學](https://maps.app.goo.gl/onzbGEoJSUbJA7Ts6)          | 集合出發                |
 | 01/10 13:00 | [佳興冰菓店](https://maps.app.goo.gl/soaujbwhgCQJ8vxt7)         | 中餐                   |
 | 01/10 14:00 | [家樂福花蓮店](https://maps.app.goo.gl/RyghuZvHrKZi5V9v9)       | 採購食材                |
-| 01/10 15:00 | [巴罕營家](https://maps.app.goo.gl/6bZqkrLRPi33gkTm7)          | 開始放空耍廢煮晚餐        |
+| 01/10 15:00 | [巴罕營家](https://maps.app.goo.gl/6bZqkrLRPi33gkTm7)          | 放空耍廢煮晚餐           |
 | 01/11 03:00 | [巴罕營家](https://maps.app.goo.gl/6bZqkrLRPi33gkTm7)          | ＳＵＰ（Optional）      |
 | 01/11 07:30 | [巴罕營家](https://maps.app.goo.gl/6bZqkrLRPi33gkTm7)          | 吃早餐                  |
 | 01/11 11:00 | [巴罕營家](https://maps.app.goo.gl/6bZqkrLRPi33gkTm7)          | 退房                   |
 | 01/11 12:00 | [洄瀾灣景觀餐廳](https://maps.app.goo.gl/Yxa3vJgTnPWEUTan7)     | 午餐                   |
 | 01/11 13:30 | [雲山水植物農場](https://maps.app.goo.gl/eqWRGEuRpzVyMfqR6)     | 落羽松拍照好看           |
-| 01/11 15:00 | [鳳林蜜蜂生態教育館](https://maps.app.goo.gl/Kzcyh1d2a6T16Bpg7)  | 吃蜂蜜蛋糕           |
+| 01/11 15:00 | [鳳林蜜蜂生態教育館](https://maps.app.goo.gl/Kzcyh1d2a6T16Bpg7)  | 吃蜂蜜蛋糕              |
 | 01/11 17:30 | [耕壽司花蓮總店](https://maps.app.goo.gl/AWQANqFT1SXHrbHK9)     | 吃晚餐（丼飯、壽司）      |
 | 01/11 18:40 | [曾師傅 中華門市](https://maps.app.goo.gl/BGMZGc83eidTapSh7)    | 伴手禮（奶油酥、麻糬）    |
 | 01/11 19:40 | [弈順軒 礁溪店](https://maps.app.goo.gl/qJaLJ5LvCmVprs7PA)      | 伴手禮（奶凍捲、糕點）    |
-| 01/11 19:40 | [北宜夜景](https://maps.app.goo.gl/gsuXMV8dMFZh499T8)          | 浪漫na    |
+| 01/11 20:40 | [北宜夜景](https://maps.app.goo.gl/gsuXMV8dMFZh499T8)          | 浪漫na                 |
 
 
 ## Rainy Day Backup Plan
