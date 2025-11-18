@@ -1,32 +1,32 @@
-# Open NCCU 0711 社遊
+# Open NCCU O110 社遊
 
 ## Schedule
 
-| 時間        | 地點                                                        | 備註                                             |
-| :---------- | :---------------------------------------------------------- | :----------------------------------------------- |
-| 07/11 18:00 | [聯邦租車](https://maps.app.goo.gl/ULtV1BbUTwHnxBMHA)       | 租車地上車後開去政大接人                         |
-| 07/11 18:40 | [政治大學](https://maps.app.goo.gl/onzbGEoJSUbJA7Ts6)       | 出發地暫定為政大，視情況接送或多點上車           |
-| 07/11 20:00 | [羅東夜市](https://maps.app.goo.gl/Ea5g6dbJLwTizz5V6)       | （第一組提出）                                   |
-| 07/11 22:00 | [包棟民宿](https://maps.app.goo.gl/3NQ7ap26UChu9GwL7)       | 宜蘭縣冬山鄉武罕五路 150 號                      |
-| 07/12 01:23 | [睡覺](https://maps.app.goo.gl/3NQ7ap26UChu9GwL7)           | Zzzzzzzzzz                                       |
-| 07/12 08:00 | [包棟民宿](https://maps.app.goo.gl/3NQ7ap26UChu9GwL7)       | 起床、吃民宿早餐                                 |
-| 07/12 09:00 | [清水地熱](https://maps.app.goo.gl/d6cMpW1s11JmWqqR9)       | 泉湯屋、浴衣、煮食、魚咬腳（第一、三組提出）     |
-| 07/12 11:40 | [百匯窯烤雞餐廳](https://maps.app.goo.gl/jCoVLtJefQS2qm1q8) | 雞料理（大圓桌中菜）                             |
-| 07/12 13:30 | [冬山河親水公園](https://maps.app.goo.gl/Te7UWdZKMRD2Xtj88) | 騎腳踏車、踩天鵝船、散步、拍照（第三、五組提出） |
-| 07/12 15:40 | [粉鳥林](https://maps.app.goo.gl/WEEewVuEWkKtzpdXA)         | 聽海哭的聲音、拍照（第一組提出）                 |
-| 07/12 17:20 | [南方澳觀景台](https://maps.app.goo.gl/ECJatfVSbvRdUfnU7)   | 看海、拍照                                       |
-| 07/12 18:00 | [阿芬鮮魚湯](https://maps.app.goo.gl/BjYWNz7ghqdy761B6)     | 平價海鮮餐廳                                     |
-| 07/12 20:00 | [奕順軒](https://maps.app.goo.gl/dz5xrCEC5PCyZkHJA)         | 諸貝爾派的自己走去旁邊買                         |
-| 07/12 22:30 | [基隆山步道](https://maps.app.goo.gl/jca8LgidU6QSzYmK8)     | 黃金山城網美步道，回程還有體力就下基隆喝鮮魚湯   |
-| 07/13 02:00 | [姚家清魚湯](https://maps.app.goo.gl/kYa7H3hZq9HdMoWo9)     | Optional，視大家體力而定                         |
+| 時間        | 地點                                                           | 備註                                             |
+| :---------- | :------------------------------------------------------------ | :----------------------------------------------- |
+| 01/10 09:30 | [政治大學](https://maps.app.goo.gl/onzbGEoJSUbJA7Ts6)          | 集合出發                |
+| 01/10 13:00 | [佳興冰菓店](https://maps.app.goo.gl/soaujbwhgCQJ8vxt7)         | 中餐                   |
+| 01/10 14:00 | [家樂福花蓮店](https://maps.app.goo.gl/RyghuZvHrKZi5V9v9)       | 採購食材                |
+| 01/10 15:00 | [巴罕營家](https://maps.app.goo.gl/6bZqkrLRPi33gkTm7)          | 開始放空耍廢煮晚餐        |
+| 01/11 03:00 | [巴罕營家](https://maps.app.goo.gl/6bZqkrLRPi33gkTm7)          | ＳＵＰ（Optional）      |
+| 01/11 07:30 | [巴罕營家](https://maps.app.goo.gl/6bZqkrLRPi33gkTm7)          | 吃早餐                  |
+| 01/11 11:00 | [巴罕營家](https://maps.app.goo.gl/6bZqkrLRPi33gkTm7)          | 退房                   |
+| 01/11 12:00 | [洄瀾灣景觀餐廳](https://maps.app.goo.gl/Yxa3vJgTnPWEUTan7)     | 午餐                   |
+| 01/11 13:30 | [雲山水植物農場](https://maps.app.goo.gl/eqWRGEuRpzVyMfqR6)     | 落羽松拍照好看           |
+| 01/11 15:00 | [鳳林蜜蜂生態教育館](https://maps.app.goo.gl/Kzcyh1d2a6T16Bpg7)  | 吃蜂蜜蛋糕           |
+| 01/11 17:30 | [耕壽司花蓮總店](https://maps.app.goo.gl/AWQANqFT1SXHrbHK9)     | 吃晚餐（丼飯、壽司）      |
+| 01/11 18:40 | [曾師傅 中華門市](https://maps.app.goo.gl/BGMZGc83eidTapSh7)    | 伴手禮（奶油酥、麻糬）    |
+| 01/11 19:40 | [弈順軒 礁溪店](https://maps.app.goo.gl/qJaLJ5LvCmVprs7PA)      | 伴手禮（奶凍捲、糕點）    |
+| 01/11 19:40 | [北宜夜景](https://maps.app.goo.gl/gsuXMV8dMFZh499T8)          | 浪漫na    |
+
 
 ## Rainy Day Backup Plan
 
 | 地點                                                          | 備註                       |
 | :------------------------------------------------------------ | :------------------------- |
-| [積木博物館](https://maps.app.goo.gl/SP7JZfGmXZqMQTFw9)       | 門票 $250                  |
-| [奇麗灣珍奶文化館](https://maps.app.goo.gl/tyLWdbwzNc3dNiBQ8) | 門票免費，DIY 珍奶         |
-| [甲鳥園](https://maps.app.goo.gl/edtmuyz4qyGtbtfG9)           | 門票 $100 可抵消費，可摸鳥 |
+| [吉吉咖啡](https://maps.app.goo.gl/MsFFoFDVF8SHu2hH7)          | 舒服蕾         |
+| [原野牧場](https://maps.app.goo.gl/CAVz85icBD9Eh6ft9)          | 窗邊看海等雨停  |
+| [七星柴魚博物館](https://maps.app.goo.gl/qpc4nz64FqrikzhP7)     | 章魚燒ＤＩＹ    |
 
 ## Packing Suggestions
 
